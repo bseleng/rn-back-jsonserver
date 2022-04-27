@@ -2,67 +2,93 @@
   "blogposts": [
     {
       "author": "William Shatner",
-      "content": "Failed SAT. Lost scholarship. Invented rocket."
+      "content": "Failed SAT. Lost scholarship. Invented rocket.",
+      "id": 0
     },
     {
       "author": "Eileen Gunn",
-      "content": "Computer, did we bring batteries? Computer?"
+      "content": "Computer, did we bring batteries? Computer?",
+      "id": 1
     },
     {
       "author": "David Brin",
-      "content": "Vacuum collision. Orbits diverge. Farewell, love."
+      "content": "Vacuum collision. Orbits diverge. Farewell, love.",
+      "id": 2
     },
     {
       "author": "Joss Whedon",
-      "content": "Gown removed carelessly. Head, less so."
+      "content": "Gown removed carelessly. Head, less so.",
+      "id": 3
     },
     {
       "author": "Stan Lee",
-      "content": "Automobile warranty expires. So does engine."
+      "content": "Automobile warranty expires. So does engine.",
+      "id": 4
     },
     {
       "author": "Alan Moore",
-      "content": "Machine. Unexpectedly, I’d invented a time"
+      "content": "Machine. Unexpectedly, I’d invented a time",
+      "id": 5
     },
     {
       "author": "Margaret Atwood",
-      "content": "Longed for him. Got him. Shit."
+      "content": "Longed for him. Got him. Shit.",
+      "id": 6
     },
     {
       "author": "Rudy Rucker",
-      "content": "His penis snapped off; he’s pregnant!"
+      "content": "His penis snapped off; he’s pregnant!",
+      "id": 7
     },
     {
       "author": "Gregory Maguire",
-      "content": "From torched skyscrapers, men grew wings."
+      "content": "From torched skyscrapers, men grew wings.",
+      "id": 8
     },
     {
       "author": "Charles Stross",
-      "content": "Internet “wakes up?” Ridicu- \nno carrier."
+      "content": "Internet “wakes up?” Ridicu- \nno carrier.",
+      "id": 9
     },
     {
       "author": "Frank Miller",
-      "content": "With bloody hands, I say good-bye."
+      "content": "With bloody hands, I say good-bye.",
+      "id": 10
     },
     {
       "author": "Steven Meretzky",
-      "content": "Wasted day. Wasted life. Dessert, please."
+      "content": "Wasted day. Wasted life. Dessert, please.",
+      "id": 11
     },
     {
       "author": "Ronald D. Moore",
-      "content": "“Cellar?” “Gate to, uh … hell, actually.”"
+      "content": "“Cellar?” “Gate to, uh … hell, actually.”",
+      "id": 12
     },
     {
       "author": "Vernor Vinge",
-      "content": "Epitaph: Foolish humans, never escaped Earth."
+      "content": "Epitaph: Foolish humans, never escaped Earth.",
+      "id": 13
     },
     {
       "author": "Bruce Sterling",
-      "content": "It cost too much, staying human."
+      "content": "It cost too much, staying human.",
+      "id": 14
     },
     {
       "author": "James Patrick Kelly",
-      "content": "We kissed. She melted. Mop please!"
+      "content": "We kissed. She melted. Mop please!",
+      "id": 16
+    },
+    {
+      "author": "Ivan",
+      "content": "A simple guy.",
+      "id": 17
+    },
+    {
+      "author": "вб",
+      "content": "ку",
+      "id": 18
     }
   ]
 }
